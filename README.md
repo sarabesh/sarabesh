@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sarabesh Neelamegham Ravindranath
+# Hi there! 👋 I'm Sarabesh
 
 🚀 **AI/ML Engineer| Software Engineer | DevOps/Infra Engineer**
 
