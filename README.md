@@ -26,11 +26,11 @@
 
 ## 🛠 Tech Stack
 💡 **AI/ML:** Deep Learning, NLP, Generative AI, Computer Vision, Reinforcement Learning  
-🌐 **Cloud:** AWS, DevOps, MLOps  [![My Skills](https://skillicons.dev/icons?i=aws,)](https://skillicons.dev)
-🔧 **Languages:** Python, Java, Golang  [![My Skills](https://skillicons.dev/icons?i=python,java,go)](https://skillicons.dev)
-🛠 **ML Frameworks:** TensorFlow, PyTorch, HuggingFace, LangChain   [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
-⚙️ **DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins, Git   [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git)](https://skillicons.dev)
-🗄 **Databases:** MySQL, RDS, DynamoDB, Neo4j  [![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,neo4j)](https://skillicons.dev)
+🌐 **Cloud:** AWS, DevOps, MLOps  
+🔧 **Languages:** Python, Java, Golang 
+🛠 **ML Frameworks:** TensorFlow, PyTorch, HuggingFace, LangChain 
+⚙️ **DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins, Git 
+🗄 **Databases:** MySQL, RDS, DynamoDB, Neo4j
 
 ---
 
