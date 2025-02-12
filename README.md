@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=AI%2FML+Engineer;Software+Developer;Cloud+Architect;Lifelong+Learner)](https://git.io/typing-svg)
 
-🚀 **AI/ML Engineer | Software Engineer | DevOps/Infra Engineer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarabesh&label=Profile%20Views&color=blueviolet&style=flat)
 
