@@ -34,10 +34,4 @@
 
 ---
 
-### 🔥 GitHub Stats
-![Sarabesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarabesh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabesh&layout=compact&theme=radical)
-
----
-
 🌟 **Let's Connect & Build Awesome Things Together!** 🚀
