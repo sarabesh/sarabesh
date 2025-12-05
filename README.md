@@ -7,10 +7,10 @@
 ---
 
 ## 🎯 About Me
-- 🔭 I’m currently working on **AI-driven Multi-Robot Path Planning**.
-- 🌱 I’m learning **Reinforcement Learning & LeetCode**.
+- 🔭 I’m currently working on **Understanding VLMs**.
+- 🌱 I’m learning **About Diffusion, Reinforcement Learning & LeetCode**.
 - 👯 I’m looking to collaborate on **AI/ML, Robotics & Cloud Projects**.
-- 🎯 I’m actively searching for **Machine Learning roles** as I prepare to graduate in **May 2025**.
+- 🎯 I’m actively searching for **Machine Learning roles**.
 - 💬 Ask me about **Machine Learning, MLOps, or Cloud Architecture**.
 - 🏎️ I am a huge fan of **cars, bikes, trucks, and Formula 1**.
 - 🎨 Fun Fact: I love **learning stuff, exploring tech innovations, watching sci-fi movies, motorsports and playing RPG games!**
